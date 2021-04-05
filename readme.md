@@ -1,5 +1,4 @@
  Magebit Web Developer Test
- ========================
 
 Welcome to your Subscription web page! In this directory, you'll find the files you need to be able to run subscription service locally.
 
