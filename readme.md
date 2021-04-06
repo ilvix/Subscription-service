@@ -2,7 +2,7 @@
 
 Welcome to your Subscription web page! In this directory, you'll find the files you need to be able to run subscription service locally.
 
----
+
 ## Installation
 
 Copy All files from this directory.
@@ -15,7 +15,7 @@ On line 3, replace `X` with your database credentials
 
 ` private $host = "X", $username = "X", $password = "X", $database = "X";`
 
----
+
 ## Usage
 
 TODO: Write usage instructions here
