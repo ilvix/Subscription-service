@@ -7,9 +7,9 @@ Welcome to your Subscription web page! In this directory, you'll find the files 
 
 Copy All files from this directory.
 
-Open your database hosting and import file $ database_set_up.sql
+Open your database hosting and import file `database_set_up.sql`
 
-Then open file
+
 
     $ bundle install
 
