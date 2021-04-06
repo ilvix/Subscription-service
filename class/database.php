@@ -1,6 +1,6 @@
 <?php
 class database {
-	private $host = "X", $username = "X", $password = "X", $database = "magebit_test";
+	private $host = "X", $username = "X", $password = "X", $database = "X";
 
 	function __CONSTRUCT(){
 		return $this;
