@@ -11,10 +11,11 @@ Open your database hosting and import file `database_set_up.sql` which contains 
 
 Then locate `class` folder and open `database.php` file.
 
-On line 3, replace `X` with your credentials
+On line 3, replace `X` with your database credentials
 
 ` private $host = "X", $username = "X", $password = "X", $database = "X";`
 
+---
 ## Usage
 
 TODO: Write usage instructions here
