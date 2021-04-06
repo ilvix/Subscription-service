@@ -2,14 +2,13 @@
 
 Welcome to your Subscription web page! In this directory, you'll find the files you need to be able to run subscription service locally.
 
-TODO: Delete this and the text above, and describe your gem
 ---
 ## Installation
 
-Add this line to your application's Gemfile:
+Open your database hosting and import file below.
 
 ```
-gem 'bhouy_palindrome'
+gem 'database_set_up.sql'
 ```
 
 And then execute:
