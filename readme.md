@@ -11,9 +11,9 @@ Open your database hosting and import file `database_set_up.sql`
 
 
 
-    $ bundle install
+    $ bundle install, which contains 2 tables with prefilled data.
 
-Or install it yourself as:
+Then locate `class` folder and open `database.php` file.
 
     $ gem install bhouy_palindrome
 
