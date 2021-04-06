@@ -7,7 +7,7 @@ Welcome to your Subscription web page! In this directory, you'll find the files 
 
 Copy All files from this directory.
 
-Open your database hosting and import file `database_set_up.sql` which contains 2 tables with prefilled data.
+Open your database hosting and import file `database_set_up.sql` which contains 2 tables with prefilled sample data.
 
 Then locate `class` folder and open `database.php` file.
 
