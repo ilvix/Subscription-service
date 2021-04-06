@@ -18,7 +18,10 @@ On line 3, replace `X` with your database credentials
 
 ## Usage
 
-TODO: Write usage instructions here
+- Make sure your server is online.
+- Copy all files from directory to your server folder.
+- Open your project in Browser.
+- You will see a 
 
 ## Development
 ---
