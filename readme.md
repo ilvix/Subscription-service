@@ -5,13 +5,11 @@ Welcome to your Subscription web page! In this directory, you'll find the files 
 ---
 ## Installation
 
-Open your database hosting and import file below.
+Copy All files from this directory.
 
-```
-gem 'database_set_up.sql'
-```
+Open your database hosting and import file $ database_set_up.sql
 
-And then execute:
+Then open file
 
     $ bundle install
 
