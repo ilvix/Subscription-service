@@ -18,7 +18,6 @@ On line 3, replace `X` with your database credentials.
 
 ## Usage
 
-- Make sure your server is online.
 - Copy all files from directory to your server folder.
 - Open your project in Browser. For local server usually it is `http://localhost/`
 - To access Admin panel at the end of URL type `/admin.php`
