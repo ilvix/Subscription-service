@@ -24,4 +24,4 @@ On line 3, replace `X` with your database credentials.
 
 ## Contributing
 
-Hope you will enjoy!
+If you find errors please contact me.
